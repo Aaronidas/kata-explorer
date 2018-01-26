@@ -1,9 +1,9 @@
 version: "2"
 
 services:
-    kata_basket:
+    kata_explorer:
         build:
           context: docker
-        container_name: kata_basket
+        container_name: kata_explorer
         volumes:
             - ./:/var/www/html
