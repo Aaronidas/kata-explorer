@@ -19,7 +19,8 @@
         "php": ">=7.1",
         "phpunit/phpunit": "6.5.5",
         "symfony/console": "4.0.3",
-        "beberlei/assert": "^2.8"
+        "beberlei/assert": "^2.8",
+        "symfony/var-dumper": "^4.0"
     },
     "config": {
         "bin-dir": "bin"
